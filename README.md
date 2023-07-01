@@ -1,4 +1,4 @@
-![logo](https://github.com/Rokia-DSC/Rokia--DSC-/blob/main/Github%20Banner.jpg)
+![logo](https://github.com/Rokia-DSC/Rokia-DSC/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Rokia Darwish</h1>
 <h3 align="center">A passionate mobile application developer</h3>
 
